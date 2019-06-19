@@ -1,4 +1,4 @@
-# SpringBootKotlinPlayground :rocket:
+# CRUD API in Spring :rocket:
 
 Just a quick example of the Spring Boot Framework running with kotlin. This example has JPA & Postgres integration.
 
